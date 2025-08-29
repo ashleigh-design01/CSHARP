@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DONSAL\LeapYear\bin\Debug\net9.0\LeapYear.exe
+C:\Users\Administrator\Desktop\DONSAL\LeapYear\bin\Debug\net9.0\LeapYear.deps.json
+C:\Users\Administrator\Desktop\DONSAL\LeapYear\bin\Debug\net9.0\LeapYear.runtimeconfig.json
+C:\Users\Administrator\Desktop\DONSAL\LeapYear\bin\Debug\net9.0\LeapYear.dll
+C:\Users\Administrator\Desktop\DONSAL\LeapYear\bin\Debug\net9.0\LeapYear.pdb
+C:\Users\Administrator\Desktop\DONSAL\LeapYear\obj\Debug\net9.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DONSAL\LeapYear\obj\Debug\net9.0\LeapYear.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DONSAL\LeapYear\obj\Debug\net9.0\LeapYear.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DONSAL\LeapYear\obj\Debug\net9.0\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DONSAL\LeapYear\obj\Debug\net9.0\LeapYear.dll
+C:\Users\Administrator\Desktop\DONSAL\LeapYear\obj\Debug\net9.0\refint\LeapYear.dll
+C:\Users\Administrator\Desktop\DONSAL\LeapYear\obj\Debug\net9.0\LeapYear.pdb
+C:\Users\Administrator\Desktop\DONSAL\LeapYear\obj\Debug\net9.0\LeapYear.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DONSAL\LeapYear\obj\Debug\net9.0\ref\LeapYear.dll

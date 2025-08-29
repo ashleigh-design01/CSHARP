@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DONSAL\Gaussian\bin\Debug\net9.0\Gaussian.exe
+C:\Users\Administrator\Desktop\DONSAL\Gaussian\bin\Debug\net9.0\Gaussian.deps.json
+C:\Users\Administrator\Desktop\DONSAL\Gaussian\bin\Debug\net9.0\Gaussian.runtimeconfig.json
+C:\Users\Administrator\Desktop\DONSAL\Gaussian\bin\Debug\net9.0\Gaussian.dll
+C:\Users\Administrator\Desktop\DONSAL\Gaussian\bin\Debug\net9.0\Gaussian.pdb
+C:\Users\Administrator\Desktop\DONSAL\Gaussian\obj\Debug\net9.0\Gaussian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DONSAL\Gaussian\obj\Debug\net9.0\Gaussian.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DONSAL\Gaussian\obj\Debug\net9.0\Gaussian.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DONSAL\Gaussian\obj\Debug\net9.0\Gaussian.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DONSAL\Gaussian\obj\Debug\net9.0\Gaussian.dll
+C:\Users\Administrator\Desktop\DONSAL\Gaussian\obj\Debug\net9.0\refint\Gaussian.dll
+C:\Users\Administrator\Desktop\DONSAL\Gaussian\obj\Debug\net9.0\Gaussian.pdb
+C:\Users\Administrator\Desktop\DONSAL\Gaussian\obj\Debug\net9.0\Gaussian.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DONSAL\Gaussian\obj\Debug\net9.0\ref\Gaussian.dll
